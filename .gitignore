@@ -1,0 +1,5 @@
+.env
+Bean.txt
+auth_v5.rs
+target/
+.DS_Store
